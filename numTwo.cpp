@@ -11,7 +11,8 @@
 #include <iostream>
 
 int main() {
-    int width, height;    char character;
+    int width, height;
+    char character;
 
     std::cout << "Enter the width of the figure: " << std::endl;
     std::cin >> width;
